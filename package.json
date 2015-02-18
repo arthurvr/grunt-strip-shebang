@@ -1,0 +1,32 @@
+{
+  "name": "grunt-strip-shebang",
+  "version": "0.0.0",
+  "description": "Grunt plugin to remove the shebang from your files.",
+  "keywords": [
+    "gruntplugin",
+    "shebang",
+    "strip",
+    "remove",
+    "unix"
+  ],
+  "license": "MIT",
+  "author": "Arthur Verschaeve <contact@arthurverschaeve.be>",
+  "files": [
+    "tasks"
+  ],
+  "repository": "arthurvr/grunt-strip-shebang",
+  "scripts": {
+    "test": "grunt && node test/test.js"
+  },
+  "dependencies": {
+    "strip-shebang": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "ava": "^0.0.4",
+    "grunt-contrib-clean": "^0.6.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
