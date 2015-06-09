@@ -1,5 +1,4 @@
 'use strict';
-
 var stripShebang = require('strip-shebang');
 
 module.exports = function (grunt) {
