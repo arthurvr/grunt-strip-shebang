@@ -1,4 +1,4 @@
-# grunt-strip-shebang [![Build Status](https://travis-ci.org/arthurvr/grunt-strip-shebang.svg?branch=master)](https://travis-ci.org/arthurvr/grunt-stip-shebang)
+# grunt-strip-shebang [![Build Status](https://travis-ci.org/arthurvr/grunt-strip-shebang.svg?branch=master)](https://travis-ci.org/arthurvr/grunt-strip-shebang)
 
 > Grunt plugin to remove the shebang from your files.
 
