@@ -28,4 +28,4 @@ grunt.registerTask('default', ['stripShebang']);
 
 ## License
 
-MIT © Arthur Verschaeve
+MIT © [Arthur Verschaeve](https://github.com/arthurvr)
