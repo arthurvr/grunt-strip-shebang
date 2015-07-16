@@ -2,11 +2,13 @@
 
 > Grunt plugin to remove the shebang from your files.
 
+
 ## Installation
 
 ```
 $ npm install --save-dev grunt-strip-shebang
 ```
+
 
 ## Usage
 
@@ -26,6 +28,7 @@ grunt.initConfig({
 grunt.registerTask('default', ['stripShebang']);
 ```
 
+
 ## License
 
-MIT © [Arthur Verschaeve](https://github.com/arthurvr)
+MIT © [Arthur Verschaeve](http://arthurverschaeve.be)
