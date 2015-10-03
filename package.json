@@ -16,7 +16,7 @@
   ],
   "repository": "arthurvr/grunt-strip-shebang",
   "scripts": {
-    "test": "xo && grunt && node test/test.js"
+    "test": "xo && grunt && ava"
   },
   "dependencies": {
     "strip-shebang": "^1.0.1"
